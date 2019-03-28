@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TFLiteDemo</string>
+    <string name="value_label">Value</string>
+    <string name="predict_label">Predict</string>
+</resources>
