@@ -38,7 +38,7 @@
         android:layout_marginTop="16dp"
         android:textAppearance="?android:textAppearanceLarge"
         android:textStyle="bold"
-        tools:text="Hello world" />
+        tools:text="Predicted Output Value" />
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/actual_result_text_view"
@@ -47,7 +47,7 @@
         android:layout_marginTop="16dp"
         android:textAppearance="?android:textAppearanceLarge"
         android:textStyle="bold"
-        tools:text="Hello world" />
+        tools:text="Actual Output Value (y = 2x - 1)" />
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
