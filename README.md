@@ -1,5 +1,5 @@
 <h1>Android-TFLite-Demo</h1>
-<p>This repository demonstrates the lifecycle of a machine learning project i.e from idea to deployment.</p>
+<p>This repository demonstrates the lifecycle of a deep learning project i.e from idea to deployment.</p>
 
 <img src="/app/src/main/ic_launcher-web.png" />
 
